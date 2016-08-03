@@ -1,0 +1,14 @@
+layout_spectrum: 0.42221600539050996
+typography_spectrum: 0.5247503211721778
+color:
+  brandStrength: 0.3542608101852238
+  lightness: 0.23666341858915985
+  saturation: 0.8710007995832711
+  rhythmicContrast: 0.9595984492916614
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+name: '#carolcooks'
