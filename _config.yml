@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.42221600539050996
 name: '#carolcooks'
+navigation:
+  - name: recipes
+    id: 82a2f85c-98f7-450b-8ad3-7ff1f9a905e5
+    type: content
 title: '#carolcooks'
 description: brooklyn homecooking
